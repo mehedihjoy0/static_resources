@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "datetime": 1790410436,
+      "device": "m51",
+      "filename": "UN1CA_3.2.0-a977c06_20260926_m51-encrypted-sign.zip",
+      "id": "ac3f5c8998b5325a222a07cd3426cede592d853c238fb35b16aedd93c6d79336",
+      "patch": "2026-08-05",
+      "size": 5388960545,
+      "urls": [
+        "https://github.com/mehedihjoy0/static_resources/releases/download/3.2.0-a977c06/UN1CA_3.2.0-a977c06_20260926_m51-encrypted-sign.zip.00",
+        "https://github.com/mehedihjoy0/static_resources/releases/download/3.2.0-a977c06/UN1CA_3.2.0-a977c06_20260926_m51-encrypted-sign.zip.01",
+        "https://github.com/mehedihjoy0/static_resources/releases/download/3.2.0-a977c06/UN1CA_3.2.0-a977c06_20260926_m51-encrypted-sign.zip.02",
+        "https://github.com/mehedihjoy0/static_resources/releases/download/3.2.0-a977c06/UN1CA_3.2.0-a977c06_20260926_m51-encrypted-sign.zip.03"
+      ],
+      "version": "3.2.0-a977c06",
+      "incremental": 0
+    }
+  ]
+}
