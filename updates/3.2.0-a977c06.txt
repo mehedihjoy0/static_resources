@@ -1,0 +1,2 @@
+- Implemented OTA 
+- Minor adjustments & fixes 
