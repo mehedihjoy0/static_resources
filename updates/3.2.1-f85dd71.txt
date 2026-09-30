@@ -1,0 +1,3 @@
+- Added RKP keyboxes support 
+- Fixed Samsung Camera OCR on legacy devices 
+- Minor adjustments & fixes
