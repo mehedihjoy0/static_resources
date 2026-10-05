@@ -1,0 +1,2 @@
+- Fixed Secure Folder 
+- Updated LostPrime kernel to October 5, 2026 release (@kurtnettle)
