@@ -1,0 +1,2 @@
+- Added audio spatializer HAL 
+- Updated LostPrime kernel to November 4, 2026 release (@kurtnettle)
