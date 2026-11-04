@@ -73,6 +73,35 @@
       ],
       "version": "3.2.1-b74af51",
       "incremental": 1790764134
+    },
+    {
+      "datetime": 1793797801,
+      "device": "m51",
+      "filename": "UN1CA_3.2.1-deddd69_20261104_m51-decrypted-sign.zip",
+      "id": "c72f5cfd7495097ea3c489cd82286ea64d22bfbe6fca933342f8746e346a731e",
+      "patch": "2026-08-05",
+      "size": 5387736777,
+      "urls": [
+        "https://github.com/mehedihjoy0/static_resources/releases/download/3.2.1-deddd69/UN1CA_3.2.1-deddd69_20261104_m51-decrypted-sign.zip.00",
+        "https://github.com/mehedihjoy0/static_resources/releases/download/3.2.1-deddd69/UN1CA_3.2.1-deddd69_20261104_m51-decrypted-sign.zip.01",
+        "https://github.com/mehedihjoy0/static_resources/releases/download/3.2.1-deddd69/UN1CA_3.2.1-deddd69_20261104_m51-decrypted-sign.zip.02",
+        "https://github.com/mehedihjoy0/static_resources/releases/download/3.2.1-deddd69/UN1CA_3.2.1-deddd69_20261104_m51-decrypted-sign.zip.03"
+      ],
+      "version": "3.2.1-deddd69",
+      "incremental": 0
+    },
+    {
+      "datetime": 1793797801,
+      "device": "m51",
+      "filename": "UN1CA_3.2.1-deddd69_20261104_m51_INCREMENTAL_1791205114-decrypted-sign.zip",
+      "id": "f43145698e17318a060435ef06f68ba232718ca070b397819699800d966333ac",
+      "patch": "2026-08-05",
+      "size": 34697607,
+      "urls": [
+        "https://github.com/mehedihjoy0/static_resources/releases/download/3.2.1-deddd69/UN1CA_3.2.1-deddd69_20261104_m51_INCREMENTAL_1791205114-decrypted-sign.zip"
+      ],
+      "version": "3.2.1-deddd69",
+      "incremental": 1791205114
     }
   ]
 }
